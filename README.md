@@ -1,4 +1,4 @@
-# Knowledge Pack___   _
+# Knowledge Pack
 ----
 This Pack is designed for Cribl LogStream users at all levels of experience, and maintained by Cribl Solution Engineers. Every time we solve an interesting use case, our intent is to add it to this Knowledge Pack.
  
