@@ -18,4 +18,3 @@ api17.example.com: {timeout: 5000}
 api18.example.com: {timeout: 5000}
 api19.example.com: {timeout: 5000}
 api20.example.com: {timeout: 5000}
-api21.example.com: {timeout: 5000}
